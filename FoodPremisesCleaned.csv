@@ -1,3 +1,4 @@
+name,address,longitude,latitude,grade,grade_date,grade_change,gradex,gradex_date,gradex_change,gradex2,gradex2_date,gradex2_change,gradex3,gradex3_date
 4 J's Kebab,"27 Vine Street, Whangarei",174.3193637,-35.725714,Grade A,2015-12-01,-1,Grade A+, 2014-11-01,,,,,,
 Absolute Caterers,"Northland Events Centre, 62 Okara Drive, Whangarei",174.3267921,-35.732291,Grade A,2016-05-01,-1,Grade A+,2015-07-01,,,,,,
 Ace Catering,"6 Porowini Avenue, Whangarei ",174.316056,-35.729617,Grade A+, 2013-05-01,,,,,,,,,
